@@ -6,7 +6,7 @@ Primeiro é necessário ter o arquivo favicon.
 
 Para transformar qualquer imagem em um ícone (favicon) exibido no topo da aba do navegador, você pode utilizar o seguinte site:
 
-https://www.online-convert.com/
+https://favicon.io/favicon-converter/
 
 Com o arquivo ícone (favicon) criado, você pode usar a tag <link> dentro do <head> do seu documento. Aqui está um exemplo básico:
 
